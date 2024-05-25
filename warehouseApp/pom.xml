@@ -120,8 +120,8 @@
 				</configuration>
 			</plugin>
 			<plugin>
-				<artifactId>maven-war-plugin</artifactId>
-				<version>3.2.2</version>
+				<artifactId>maven-jar-plugin</artifactId>
+  <version>3.4.1</version>
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
